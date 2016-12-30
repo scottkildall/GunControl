@@ -1,0 +1,19 @@
+################################
+# AVR conversion patterns
+################################
+
+# Compilation symbols, objects, etc
+*.c_sym
+*.h_sym
+*.lst
+*.o
+*.lss
+*.eep
+*.elf
+*.map
+*.sym
+
+
+
+# OSX
+.DS_Store
